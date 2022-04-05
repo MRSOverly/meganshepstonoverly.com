@@ -64,7 +64,7 @@ body {
 .button-row {
   flex-direction: row;
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
 .button {
   font-size: 1.5em;
