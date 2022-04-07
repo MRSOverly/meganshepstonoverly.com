@@ -109,3 +109,22 @@ p {
 a {
   color:blue;
 }
+
+.volunteer-photos {
+  flex-direction: row;
+  flex-grow: 1;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 60px;
+  margin-right: 20px;
+
+}
+
+.volunteer-description {
+  flex-direction: row;
+  flex-grow: 2;
+  text-align: left;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 30px;
+}
