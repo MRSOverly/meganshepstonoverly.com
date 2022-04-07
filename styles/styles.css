@@ -110,6 +110,7 @@ a {
   color:blue;
 }
 .volunteer-row {
+  display: flex;
   flex-direction: row;
 }
 .volunteer-photos {
