@@ -109,19 +109,18 @@ p {
 a {
   color:blue;
 }
-
-.volunteer-photos {
+.volunteer-row {
   flex-direction: row;
+}
+.volunteer-photos {
   flex-grow: 1;
   padding-top: 20px;
   padding-bottom: 20px;
   margin-left: 60px;
   margin-right: 20px;
-
 }
 
 .volunteer-description {
-  flex-direction: row;
   flex-grow: 2;
   text-align: left;
   margin-left: 60px;
