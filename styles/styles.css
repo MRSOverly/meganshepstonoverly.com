@@ -112,6 +112,8 @@ a {
 .volunteer-row {
   display: flex;
   flex-direction: row;
+  border-top: 5;
+  border-bottom: 5;
 }
 .volunteer-photos {
   flex-grow: 1;
