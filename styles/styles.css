@@ -121,7 +121,7 @@ a {
   padding-bottom: 20px;
   margin-left: 60px;
   margin-right: 20px;
-  width: 300px;
+  min-width: 300px;
 }
 
 .volunteer-description {
