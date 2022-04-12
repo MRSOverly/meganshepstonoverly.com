@@ -83,7 +83,7 @@ body {
   flex-direction: column;
   text-align: center;
   padding-bottom: 40px;
-  column-width: 50px;
+  column-width: 10px;
 }
 
 .blog-button {
