@@ -66,6 +66,14 @@ body {
   text-align: center;
   padding-bottom: 40px;
 }
+
+.button-column {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding-bottom: 40px;
+}
+
 .button {
   font-size: 1.5em;
   margin-left: 20px;
