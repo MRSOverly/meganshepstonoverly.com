@@ -67,13 +67,6 @@ body {
   padding-bottom: 40px;
 }
 
-.button-column {
-  display: flex;
-  flex-direction: column;
-  text-align: left;
-  padding-bottom: 40px;
-}
-
 .button {
   font-size: 1.5em;
   margin-left: 20px;
@@ -84,6 +77,25 @@ body {
   border-style: ridge;
   color: black;
 }
+
+.button-column {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding-bottom: 40px;
+}
+
+.blog-button {
+  font-size: 1.5em;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5px;
+  text-align: left;
+  border: salmon;
+  border-style: ridge;
+  color: black;
+}
+
 .description {
   text-align: left;
   margin-left: 60px;
