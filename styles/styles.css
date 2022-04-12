@@ -82,6 +82,7 @@ body {
   display: flex;
   flex-direction: column;
   text-align: center;
+  flex-shrink: 3;
   padding-bottom: 40px;
   column-width: 10px;
 }
