@@ -81,7 +81,7 @@ body {
 .button-column {
   display: flex;
   flex-direction: column;
-  text-align: center;
+  text-align: left;
   flex-basis: 15%;
   padding-bottom: 40px;
   column-width: 10px;
