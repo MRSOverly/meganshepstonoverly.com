@@ -1,0 +1,47 @@
+---
+templateKey: blog-post
+title: About Tears
+date: 2021-04-6T15:04:10.000Z
+featuredpost: false
+featuredimage: /img/cover.jpeg
+description: Learning from my tears
+tags:
+  - personalgrowth
+  - yoga
+---
+
+A few months ago, I attended a virtual pilgrimage. (I know that sounds lame, but it was actually engaging, fulfilling, and fun.) It started the day after the capitol riots, on January 7, 2021, when we were all super raw and confused. Or at least, I was. Needless to say, as we delved deeper each day into our sacred space, emotions were running high. I know I cried on Zoom more than once. 
+
+After one particularly touching session where we had a guest speaker, the leader of the pilgrimage asked us all to thank her and said, “I see a lot of smiling, teary-eyed faces.” Later, on our group’s virtual messaging platform, someone gave a blessing that included, “to those who cry unabashedly on Zoom.” These are lovely gestures—people bring attention to tears because it is a way to show others that they have touched a tender spot in us. I know both of the people who said these things had the best of intentions.
+
+But, the next day when I started crying, I didn’t feel the freedom to unabashedly cry on Zoom. Instead, I turned my camera off.
+		
+The remarks about crying also reminded me of White Fragility by Robin DiAngelo. In the book, the author mentions that, when responding to stories people of color tell about their experiences with racism, white women should not cry because it pulls attention from the storyteller. 
+	
+These statements demonstrate a few assumptions that seem to underly our opinions on crying—-first, one person’s tears should be remarked on by others; second, it’s the job of those others to make the person crying “feel better," and finally, the tears are an attempt by the cryer to covet these attentions. 
+		
+I know that in the past when I was moved to tears, I felt ashamed. I used to do everything in my power to stop the tears from flowing, and was horrified if someone mentioned or noticed my tears.
+		
+Have you ever been in a yoga class, sort of lost it and wept the whole class, and then left feeling grateful that no one noticed you were having an emotional day? Yep, me too. Or, at least that’s what I thought for a long time. Once I went through yoga teacher training, though, I realized that most of the time, yoga teachers see all of the people who are crying in their classes—it’s actually quite common—and they mercifully don’t say anything. Why?
+		
+According to yogic philosophy, tears are not something to be ashamed of. Tears are merely a physical representation of an emotional release that clears the way for you to move forward with your life and work.
+
+Yoga teachers also choose not to say anything about tears, or even give someone a tissue, because those statements and actions are considered to say, “Oh, here, have a tissue, and please stop crying.” 
+	
+This yogic method of treating tears was a quintessential step on my journey to wholeness. (That journey is ongoing, of course.) When I was in yoga teacher training, we had a module on how to teach yoga to those who have experienced severe trauma. In the module, our teacher, Michele, discussed how to make the practice-space safe for traumatized students: teachers should ensure that no student has to sit with her back to the door, teachers should open the doors to all the closets and little nooks in the room, and teachers should encourage the students to check out those nooks at any time if they need to assure themselves that no one is hiding in them. 
+
+I was sitting in the studio, on my mat, listening, when I started crying and I couldn’t stop. I didn’t understand why I was crying so much; I felt bewildered and confused. When I arrived home, I talked to my husband about my reaction, and we decided that I should go see a therapist. I wrote this yoga teacher, Michele, to ask for therapist recommendations. She said, “Yes, I was thinking about you and hoping that you were ok.” She knew I was crying—quietly, the way I do most things—but she let me cry because she also knew that that was what I needed to do. 
+
+Had I not been given the space to have an emotional release that day, I don’t know if I would have started therapy. I went to an excellent therapist for about two-and-a-half years until she jokingly graded me with an A+, told me I didn’t need her anymore, and sent me on my way.
+
+Tears are complicated, and they make people uncomfortable, I know. And, yes, if someone is being loud and disruptive with her emotions, maybe she needs to leave so she doesn’t take all of the space. And, yes, if people are crying because they’re trying to garner attention, that is not cool. 
+
+Our treatment of tears, though, is a decision we come to as a society. The collective trauma of the twentieth century created a need for many to push down emotion or risk being overwhelmed and unable to function. And, yes, the time and space I had to process my emotions was a product of my privilege. But it doesn’t have to be. 
+
+We can create and hold that emotional space together, for anyone who needs it. That space could be a way for those of us who are now enjoying the luxuries of late-stage capitalism to honor the sacrifices of those who came before. That space could maybe, ever-so-slightly, tip the balance of our current unjust world toward a society where more voices are heard. 
+
+And, maybe, while listening to those who have been treated unfairly, I cry along. But that doesn’t mean I want anyone to acknowledge my tears. In fact, I would prefer that they didn’t. Empathy is a giant circle; we share in someone’s sadness, they share in ours. We share in someone’s joy, and they, in turn, share in ours. Being brave enough to feel the more uncomfortable emotions allows us to be more honest and carefree in our experiences of joy and bliss. 
+
+What if tears were socially accepted? What if we were allowed to let our eyes flow freely when we felt touched by something, without shame or guilt? What if it was strange to not cry when we felt these things?  
+
+If given the freedom to cry, maybe people who have never had the time or space to understand their emotions could start. Maybe we could cry about our anger and sadness instead of flicking off someone in traffic. Maybe we could cry about what we’re actually feeling instead of needlessly yelling at our kids. Maybe we could cry instead of going on a social media tirade. What a world that would be. 

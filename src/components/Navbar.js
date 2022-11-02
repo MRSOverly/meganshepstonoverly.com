@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/Logo.jpeg";
+import logo from "../img/logo.jpeg";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -39,11 +39,6 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/products">
-              Products
-            </Link>
-            </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/blog">
               Blog
             </Link>
@@ -51,11 +46,6 @@ const Navbar = () => {
             <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/contact">
               Contact
-            </Link>
-            </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/contact/examples">
-              Form Examples
             </Link>
             </li>
           <li className="navbar-end has-text-centered">
