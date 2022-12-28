@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Portable Roots
 image: /img/cover.jpeg
-heading: Great coffee with a conscience
+heading: Musings on Spirituality and Meditation
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
